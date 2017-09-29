@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hiroopark</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_menu01">하이루</string>
+    <string name="nav_menu02">예식절차</string>
+    <string name="nav_menu03">추모앨범</string>
+    <string name="nav_menu04">하늘편지</string>
+    <string name="nav_menu05">상담신청</string>
+</resources>

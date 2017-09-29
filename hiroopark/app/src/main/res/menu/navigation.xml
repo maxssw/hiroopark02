@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app ="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_id01"
+        android:icon="@drawable/ic_home_black_24dp"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/nav_menu01" />
+
+    <item
+        android:id="@+id/nav_id02"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/nav_menu02" />
+
+    <item
+        android:id="@+id/nav_id03"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/nav_menu03" />
+
+    <item
+        android:id="@+id/nav_id04"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/nav_menu04" />
+
+    <item
+        android:id="@+id/nav_id05"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:title="@string/nav_menu05" />
+
+</menu>
